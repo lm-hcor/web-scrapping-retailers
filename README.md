@@ -93,5 +93,4 @@ shiny::runApp()
 ## 👥 Authors
 Danielle Rivas (https://github.com/babygal21), Luis Miguel Herrera Corrales (https://github.com/lm-hcor), David Valero Regalón.
 
-
-IE University — Web Scraping Project, 2026
+Universidad Carlos III de Madrid — Web Scraping Project, 2026
